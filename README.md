@@ -4,7 +4,7 @@
 
 The buffer is container to raw bytes. 
 
-<div style="text-align: center">
+<div>
 <img width="300" src="https://attiquetecnologia.com.br/download/posts.post_thumbnail.8acf0d629ebfbb6d.62697420627974652e706e67.png") />
 </div>
 
