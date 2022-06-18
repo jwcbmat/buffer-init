@@ -4,4 +4,4 @@
 
 The buffer is container to raw bytes. 
 
- <img align="center" alt="Joao-Python" height="30" width="40" src="https://attiquetecnologia.com.br/post/bit-e-byte-unidades-de-medida-em-computacao">
+![Bytes to Bits]("https://attiquetecnologia.com.br/download/posts.post_thumbnail.8acf0d629ebfbb6d.62697420627974652e706e67.png")
