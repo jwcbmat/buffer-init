@@ -5,7 +5,7 @@
 The buffer is container to raw bytes. 
 
 <div>
-<img width="150" src="https://attiquetecnologia.com.br/download/posts.post_thumbnail.8acf0d629ebfbb6d.62697420627974652e706e67.png") />
+<img width="300" src="https://attiquetecnologia.com.br/download/posts.post_thumbnail.8acf0d629ebfbb6d.62697420627974652e706e67.png") />
 </div>
 
 ## Buffer in Node
@@ -20,5 +20,5 @@ The short answer is that in order to save space and be more readable, the implem
  -  Hexadecimal is still another number system, this time each digit ranges from 0-15. Perhaps the easiest way to understand this concept is by looking at a conversion chart:
 
 <div>
-<img width="150" src="https://allenkim67.github.io/img/numbers.png") />
+<img width="300" src="https://allenkim67.github.io/img/numbers.png") />
 </div>
